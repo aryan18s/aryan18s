@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hii, My Self Aryan Sojitra 😎.
 🔭 Working on: ML & Data Science projects (real-world datasets) | GATE 2026<br>👯 Collaborate on: ML, DS, analytics, impactful AI projects<br>🤝 Need help with: Model optimization, advanced stats, production-ready ML<br>🌱 Learning: Advanced Python, NumPy, Pandas, EDA, ML tuning<br>💬 Ask me about: ML pipelines, preprocessing, evaluation, Python<br>⚡ Fun fact: I don’t trust random data 😄
 
 
